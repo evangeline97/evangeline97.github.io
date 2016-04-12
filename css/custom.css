@@ -9,11 +9,9 @@ body {
 	color: black;
 }
 
-.jumbotron h1, ul.nav{
+.jumbotron h1{
 	font-family: 'Arvo', serif;
 }
-
-
 
 .btn-danger{
 	font-size: 24px;
