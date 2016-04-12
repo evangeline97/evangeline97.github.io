@@ -12,6 +12,7 @@ body {
 .jumbotron h1{
 	font-family: 'Arvo', serif;
 	margin:50px;
+	background-image: url('../images/1.jpg');
 }
 
 .jumbotron p{
