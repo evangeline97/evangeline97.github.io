@@ -7,7 +7,7 @@ body {
 .jumbotron {
 	text-align: center;
 	color: black;
-	background-image: url('../images/1.jpg');
+	background-image: url('./images/1.jpg');
 }
 
 .jumbotron h1{
