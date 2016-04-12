@@ -9,7 +9,15 @@ body {
 	color: black;
 }
 
-.jumbotron h1, ul.nav{
+.jumbotron h1{
+	font-family: 'Arvo', serif;
+	margin:0px, 50px;
+}
+
+.jumbotron p{
+	margin-bottom :30px;
+}
+ul.nav{
 	font-family: 'Arvo', serif;
 }
 
