@@ -7,12 +7,12 @@ body {
 .jumbotron {
 	text-align: center;
 	color: black;
+	background-image: url('../images/1.jpg');
 }
 
 .jumbotron h1{
 	font-family: 'Arvo', serif;
 	margin:50px;
-	background-image: url('../images/1.jpg');
 }
 
 .jumbotron p{
