@@ -1,0 +1,84 @@
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="http://piet.ucdavis.edu/?page_id=31" resolutions="1x" timestamp="1459366279751">
+  <folder name="css">
+    <file name="site_global.css" crc="335439294"/>
+    <file name="index.css" crc="463127863" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index"/>
+    <file name="museutils.js" crc="3790713428" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="webpro.js" crc="329496574" ref="index"/>
+    <file name="musewpslideshow.js" crc="394033048" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4265131668" ref="index"/>
+    <file name="touchswipe.js" crc="497316881" ref="index"/>
+    <file name="form_check.php" crc="3805695515" ref="index"/>
+    <file name="form_throttle.php" crc="3802629389" ref="index"/>
+    <file name="form_process.php" crc="54267062" ref="index"/>
+    <file name="form-u9096.php" crc="486761253" ref="index"/>
+    <file name="musewpdisclosure.js" crc="4234230767" ref="index"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4219894366" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="savethedomes_566x800.jpg" crc="4017521002" seo="true" ref="index"/>
+    <file name="pasted image 6486x660-crop-u9023.jpg" crc="494223693" ref="index"/>
+    <file name="pasted image 6486x660-crop-u9089.jpg" crc="4169277787" ref="index"/>
+    <file name="u9106-17.png" crc="200884290" ref="index"/>
+    <file name="u9106-17-r.png" crc="195222174" ref="index"/>
+    <file name="u9106-17-m.png" crc="473606238" ref="index"/>
+    <file name="u9106-17-fs.png" crc="59421444" ref="index"/>
+    <file name="u4795-14.png" crc="3915742168" ref="index"/>
+    <file name="u6347-4.png" crc="4057724155" ref="index"/>
+    <file name="pasted image 520x304.jpg" crc="375759608" seo="true" ref="index"/>
+    <file name="pasted image 692x210.jpg" crc="504381026" seo="true" ref="index"/>
+    <file name="u6366-4.png" crc="4002825026" ref="index"/>
+    <file name="u6373-4.png" crc="3942548281" ref="index"/>
+    <file name="u6369-4.png" crc="4082102419" ref="index"/>
+    <file name="u6358-4.png" crc="3952029323" ref="index"/>
+    <file name="sketches_cutaway-crop-u7792.jpg" crc="66066829" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="sketches_fp1.jpg" crc="3817583486" seo="true" ref="index"/>
+    <file name="sketches_sec-crop-u7786.jpg" crc="3790510526" ref="index"/>
+    <file name="sketches_wallsec-crop-u7788.jpg" crc="266789954" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u7470-5.png" crc="3938376411" ref="index"/>
+    <file name="u7760-5.png" crc="507953586" ref="index"/>
+    <file name="screen shot 2015-10-30 at 165558.jpg" crc="16445565" seo="true" ref="index"/>
+    <file name="u7822-12.png" crc="496153603" ref="index"/>
+    <file name="u7801-4.png" crc="159664366" ref="index"/>
+    <file name="pasted image 698x424.jpg" crc="235207619" seo="true" ref="index"/>
+    <file name="u7803-4.png" crc="4205175389" ref="index"/>
+    <file name="screen shot 2015-10-19 at 194552.jpg" crc="3879931216" seo="true" ref="index"/>
+    <file name="u7812-6.png" crc="101503676" ref="index"/>
+    <file name="pasted image 611x424.jpg" crc="168694268" seo="true" ref="index"/>
+    <file name="u7809-4.png" crc="137981996" ref="index"/>
+    <file name="screen shot 2015-10-19 at 194624.jpg" crc="4196734596" seo="true" ref="index"/>
+    <file name="u7817-3.png" crc="4284955956" ref="index"/>
+    <file name="pasted image 902x287.jpg" crc="281633735" seo="true" ref="index"/>
+    <file name="u8886-4.png" crc="3928412080" ref="index"/>
+    <file name="pasted image 742x444.jpg" crc="446437967" seo="true" ref="index"/>
+    <file name="pasted image 332x247.jpg" crc="4144620114" seo="true" ref="index"/>
+    <file name="pasted image 391x248.jpg" crc="488045589" seo="true" ref="index"/>
+    <file name="pasted image 636x393-crop-u7834.jpg" crc="4059379133" ref="index"/>
+    <file name="u7836-16.png" crc="3986589449" ref="index"/>
+    <file name="u9478-5.png" crc="4049828275" ref="index"/>
+    <file name="sketches_aerial.jpg" crc="32194243" seo="true" ref="index"/>
+    <file name="u8507-12.png" crc="337870034" ref="index"/>
+    <file name="u8506-6.png" crc="4100989192" ref="index"/>
+    <file name="screen shot 2016-03-09 at 115203.jpg" crc="3792883219" seo="true" ref="index"/>
+    <file name="screen shot 2016-03-09 at 115232.jpg" crc="4004168852" seo="true" ref="index"/>
+    <file name="pasted image 1074x656.jpg" crc="3847488992" seo="true" ref="index"/>
+    <file name="u7387-5.png" crc="318441417" ref="index"/>
+    <file name="pasted image 521x337.jpg" crc="4241290194" seo="true" ref="index"/>
+    <file name="pasted image 841x575.jpg" crc="4129604842" seo="true" ref="index"/>
+    <file name="pasted image 840x556.jpg" crc="4221774415" seo="true" ref="index"/>
+    <file name="u8514-21.png" crc="376408725" ref="index"/>
+    <file name="u8512-13.png" crc="443640492" ref="index"/>
+    <file name="screen shot 2016-03-09 at 122307.jpg" crc="4292497145" seo="true" ref="index"/>
+    <file name="screen shot 2015-10-22 at 234753.jpg" crc="244018479" seo="true" ref="index"/>
+    <file name="u8975-5.png" crc="163547708" ref="index"/>
+    <file name="u9005-14.png" crc="4067216602" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3812693651" seo="true" mt="1459366225039" redirect="true"/>
+</manifest>
