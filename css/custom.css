@@ -1,0 +1,37 @@
+/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+}
+
+.jumbotron {
+	text-align: center;
+	color: 222;
+	background-image: url('../images/2.JPG');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.jumbotron h1{
+	font-family: 'Arvo', serif;
+	margin:50px;
+}
+
+.jumbotron p{
+	margin-bottom :30px;
+	font-size: 32;
+
+}
+
+ul.nav{
+	font-family: 'Arvo', serif;
+}
+
+.btn-danger{
+	font-size: 24px;
+}
+
+.social h2{
+	font-family: 'Arvo', serif;
+	font-size: large;
+}
